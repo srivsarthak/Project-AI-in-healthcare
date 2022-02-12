@@ -8,7 +8,7 @@ __authors__: list[str] = [
 __authors_email__: dict[str, str] = {
     'Aabha Malik': 'aabhamalik30@gmail.com',
     'Manasdeep Singh': 'manasdeep.02@gmail.com',
-    'Sarthak Srivastav': ''
+    'Sarthak Srivastav': 'srivs.sarthak@gmail.com'
 }
 
 
